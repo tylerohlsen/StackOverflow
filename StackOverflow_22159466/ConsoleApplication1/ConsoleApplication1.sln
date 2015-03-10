@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{06E7B982-5D09-485A-A0A1-A439124E8481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAsm", "MyAsm\MyAsm.csproj", "{E6FA6DDD-A31E-43B6-9F84-136F4803053E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E7B982-5D09-485A-A0A1-A439124E8481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E7B982-5D09-485A-A0A1-A439124E8481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E7B982-5D09-485A-A0A1-A439124E8481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E7B982-5D09-485A-A0A1-A439124E8481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6FA6DDD-A31E-43B6-9F84-136F4803053E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FA6DDD-A31E-43B6-9F84-136F4803053E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FA6DDD-A31E-43B6-9F84-136F4803053E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FA6DDD-A31E-43B6-9F84-136F4803053E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
